@@ -106,7 +106,7 @@ PolypX/
 │
 ├── data/                            # Dataset and metadata
 │   ├── metadata.csv                 # Dataset annotations
-│   ├── README.txt                   # Dataset description
+│   ├── README.md                   # Dataset description
 │   └── CVC-ClinicDB/                # Dataset folder
 │       ├── Ground Truth/            # Segmentation masks
 │       └── Original/                # Colonoscopy images
